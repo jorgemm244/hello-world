@@ -1,2 +1,3 @@
 # hello-world
 Empezando ...
+Aprendiendo a usar git y mejorar para programar lo mejor posible :)
